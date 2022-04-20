@@ -1,0 +1,104 @@
+{
+    "questions": [
+        {
+            "question": "What is a context in android ?",
+            "answers": [
+                "A - It is an interface to store global information about an application ",
+                "B - It is used to create new components.",
+                "C - Android has two contexts, those are getContext() and getApplicationContext()",
+                "D - All of Above"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "question": "On which thread broadcast receivers will work in android?",
+            "answers": [
+                "A - Worker Thread",
+                "B - Main Thread",
+                "C - Activity Thread",
+                "D - None of the Above"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "question": "What is the 9 patch tool in android?",
+            "answers": [
+                "A - Using with tool, we can redraw images in 9 sections.",
+                "B - image extension tool",
+                "C - image editable tool",
+                "D - Device features"
+            ],
+            "correctIndex": 0
+        },
+        {
+            "question": "What is DDMS in android?",
+            "answers": [
+                "A - Dalvik memory server ",
+                "B - Device memory server",
+                "C - Dalvik monitoring services",
+                "D - Dalvik debug monitor services"
+            ],
+            "correctIndex": 3
+        },
+        {
+            "question": "In which technique, we can refresh the dynamic content in android? ",
+            "answers": [
+                "A - Java",
+                "B - Ajax ",
+                "C - Android",
+                "D - None of the Above"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "question": "What is sandbox in android?",
+            "answers": [
+                "A - Each application runs securely in sandbox without interrupting another process ",
+                "B - Android Box",
+                "C - Android development tool kit",
+                "D - None of the above"
+            ],
+            "correctIndex": 0
+        },
+        {
+            "question": "Why don't we give MIN SDK as 1 in android?",
+            "answers": [
+                "A - Android deprecated version",
+                "B - There is no value for 1 ",
+                "C - Android doesn't allow min version 1",
+                "D - None of the above"
+            ],
+            "correctIndex": 0
+        },
+        {
+            "question": "What is off-line synchronization in android? ",
+            "answers": [
+                "A - Synchronization with internet",
+                "B - Background synchronization",
+                "C - Synchronization without internet",
+                "D - None of the above"
+            ],
+            "correctIndex": 2
+        },
+        {
+            "question": "Select a component which is NOT part of Android architecture.",
+            "answers": [
+                "Google",
+                "Microsoft",
+                "Facebook",
+                "None of the Above"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "question": "Which company developed android?  ",
+            "answers": [
+                "Apple",
+                "Google",
+                "Nokia",
+                "Android Inc"
+            ],
+            "correctIndex": 3
+        }
+    ]
+}
